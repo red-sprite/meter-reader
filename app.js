@@ -1,5 +1,3 @@
-require("reader.js")
-
 var username = "dummyUser"
 var password = "dummyPass"
 
